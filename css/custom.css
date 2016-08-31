@@ -9,7 +9,8 @@ hr {
 .btn-primary {
 	background-color: #668334;
 	border-color: #668334;
-	margin: 2px;
+	margin: 10px 2px;
+	/*margin-bottom: 20px;*/
 }
 
 .btn-primary.active, .btn-primary.focus, .btn-primary:active, .btn-primary:focus, .btn-primary:hover, .open>.dropdown-toggle.btn-primary {
@@ -18,3 +19,6 @@ hr {
 	color: #668334;
 }
 
+.btn-x1 {
+	padding-bottom: 30px;
+}
