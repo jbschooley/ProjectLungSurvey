@@ -7,8 +7,8 @@ hr {
 }
 
 .btn-primary {
-	background-color: #668334;
-	border-color: #668334;
+	background-color: #79ac2e;
+	border-color: #79ac2e;
 	margin: 10px 2px;
 	/*margin-bottom: 20px;*/
 }
@@ -16,9 +16,13 @@ hr {
 .btn-primary.active, .btn-primary.focus, .btn-primary:active, .btn-primary:focus, .btn-primary:hover, .open>.dropdown-toggle.btn-primary {
 	background-color: #fff;
 	border-color: #fff;
-	color: #668334;
+	color: #79ac2e;
 }
 
 .btn-x1 {
 	padding-bottom: 30px;
+}
+
+.logos > img {
+	max-width: 100%;
 }
